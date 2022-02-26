@@ -4,14 +4,16 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
 }
-.texts{
-    margin-left: 10%;
-    margin-right: 60%;
+.logo h4{
+    color: blanchedalmond;
+    margin: 3%;
 }
 .img1 img{
-    float: right;
+    float: left;
     height: 55vh;
     width: 30vw;
-    margin-top: 2%;
+    margin-top: 6%;
+    margin-left: 3%;
     border-radius: 50%;
+
 }
