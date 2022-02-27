@@ -40,12 +40,23 @@ img{
     width: 5vw;
     height: 10vh;
 }
+h3{
+    color: darkcyan;
+}
+.about h3{
+    color: darkcyan;
+    font-size: small;
+}
 .about p{
     font-size: large;
-    color: darkcyan;
+    color: rgb(240, 251, 255);
 }
 .about em{
     font-family: fantasy;
+    color:rgb(21, 0, 139);
+}
+footer{
+    color:rgb(0, 255, 221);
 }
 .footeritems{
     text-align: center;
