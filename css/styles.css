@@ -35,6 +35,24 @@ img{
     border-radius: 50%;
 
 }
+.wrap a img{
+    border-radius: 25%;
+    width: 5vw;
+    height: 10vh;
+}
+.about p{
+    font-size: large;
+    color: darkcyan;
+}
+.about em{
+    font-family: fantasy;
+}
+.footeritems{
+    text-align: center;
+}
+/* footer{
+    margin-left: 2%;
+} */
 /* .about{
     color: azure;
     margin-top: 20%;
